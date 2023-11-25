@@ -1,1 +1,2 @@
 bad_apple.json filter=lfs diff=lfs merge=lfs -text
+rick.json filter=lfs diff=lfs merge=lfs -text
